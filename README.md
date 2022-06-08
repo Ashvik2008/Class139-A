@@ -1,4 +1,5 @@
-#CLASS138
+#Class138
+
 Data Collection : Data is used to create more efficient systems
 Recommendation systems are a type of information filtering system as they improve the quality of search results and provide items that are more relevant to the searched item or are related to the search history
 
