@@ -1,1 +1,1 @@
-# Class139-A
+# Class139-ADemographic Recommendation provides a general chart of recommended movies to all the users they are not sensitive to the interests of a particular user this is where a more refined system - content based filtering comes into play
